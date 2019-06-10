@@ -1,6 +1,8 @@
 package advance;
 import javax.swing.*;
 import java.awt.event.*;
+
+//swing api example.... to check given string is palindrome or not
 public class swig extends JFrame implements ActionListener{
 
 	 
