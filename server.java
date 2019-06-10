@@ -9,7 +9,7 @@ import java.io.Reader;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.zip.InflaterInputStream;
-
+//operational pnly with client code  example of client/server communication in socket programming
 public class server {
 	public static void main(String[] args)throws Exception {
 		// TODO Auto-generated method stub
