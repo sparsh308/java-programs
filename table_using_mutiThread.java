@@ -31,7 +31,7 @@ class cook1 implements Runnable
 }
 
 
-public class table
+public class table_using_mutiThread
 {
 public static void main(String args[])
 {
