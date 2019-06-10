@@ -1,6 +1,6 @@
 package project;
 import java.util.Scanner;
-public class jagged {
+public class jagged_array {
 	public static void main(String[] args) {  
         int rows,n,i,j ,k;
         Scanner sc=new Scanner(System.in);
