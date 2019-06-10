@@ -1,7 +1,7 @@
 package advance;
 import java.io.*;
 import java.net.*;
-
+//operational only with server code   ....example of socket programming
 public class client {
 
 	public static void main(String[] args)throws Exception {
