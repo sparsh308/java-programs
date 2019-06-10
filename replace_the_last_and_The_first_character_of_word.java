@@ -1,6 +1,6 @@
 package project;
 import java.util.Scanner;
-public class replace {
+public class replace_the_last_and_The_first_character_of_word {
 	public static void main(String[] args) {
     Scanner sc=new Scanner (System.in);
     String str=sc.nextLine();
