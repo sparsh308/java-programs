@@ -1,6 +1,6 @@
 package advance;
 import java.io.*;
-
+//example of file handling.. this code check all the vowel in file and save them to another file .. 
 public class filehan {
 
 	public static void main(String[] args) throws Exception {
