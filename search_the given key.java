@@ -1,6 +1,6 @@
 package project;
 import java.util.Scanner;
-public class search{
+public class search_the given key{
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
 		System.out.print("Enter size. : ");
